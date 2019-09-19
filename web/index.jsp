@@ -18,5 +18,12 @@
     <a href="account/success.jsp">登录成功页面</a>
     <a href="account/failure.jsp">登录失败页面</a>
   </p>
+
+  <hr>
+  <p>
+    Copyright © Andliage Pox <br>
+    <a href="http://www.miitbeian.gov.cn/">陕ICP备17020148号</a><br>
+    联系邮箱：pox@andliage.com
+  </p>
   </body>
 </html>
