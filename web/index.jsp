@@ -1,7 +1,7 @@
 <%@ page contentType="text/html;charset=UTF-8"%>
 <html>
   <head>
-    <title>首页</title>
+    <title>JSP实验</title>
   </head>
   <body>
   <h1>JSP实验</h1>
