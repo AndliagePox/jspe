@@ -65,7 +65,6 @@ function register() {
     if (ef) {
         alert("注册信息有误！无法注册。");
     } else {
-        alert('注册成功！即将跳转到登录页面。');
         document.form.submit();
     }
 }

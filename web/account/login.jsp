@@ -25,12 +25,12 @@
 <%
     if (request.getMethod().equals("POST")) {
         boolean flag = true;
-        String name = request.getParameter("username");
-        String pswd = request.getParameter("password");
-        if ((name == null || pswd == null) ||
-                !(name.equals("pox") && pswd.equals("123456")
-                || name.equals(session.getAttribute("username"))
-                && pswd.equals(session.getAttribute("password")))) {
+        String username = request.getParameter("username");
+        String password = request.getParameter("password");
+        if ((username == null || password == null) ||
+                !(username.equals("pox") && password.equals("123456")
+                || username.equals(session.getAttribute("username"))
+                && password.equals(session.getAttribute("password")))) {
             flag = false;
         }
         if (flag) {
