@@ -35,7 +35,7 @@
     <br>
     <% } %>
     <input type="button" name="check" id="check" onclick="checkForm()" value="检查所有输入">
-    <% if (lab >= 2) { %>
+    <% if (lab > 2) { %>
     <input type="button" name="re" id="re" onclick="register()" value="注册">
     <%
     }
