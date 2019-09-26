@@ -56,12 +56,11 @@
 %>
 <hr>通过JavaBean保存的注册信息：
 <p>
-    <br>用户名： <%= user.getUsername() %>
+    用户名： <%= user.getUsername() %>
     <br>密码： <%= user.getPassword() %>
     <br>邮箱： <%= user.getEmail() %>
     <br>身份证： <%= user.getIdCard() %>
     <br>选择的选项： <%= convert.arr2Str(user.getQuestions()) %>
-    <br>
 </p>
 <%
             user.setQuestions(null);
