@@ -19,7 +19,7 @@
     <a href="account/failure.jsp">登录失败页面</a>
   </p>
   <p>实验五 <a href="account/register.jsp?lab=5">JavaBean实验(注册页面)</a></p>
-
+  <p>实验六 <a href="db/data.jsp">数据库连接测试(数据展示页面)</a></p>
   <hr>
   <p>
     Copyright © Andliage Pox <br>
