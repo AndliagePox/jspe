@@ -20,6 +20,13 @@
   </p>
   <p>实验五 <a href="account/register.jsp?lab=5">JavaBean实验(注册页面)</a></p>
   <p>实验六 <a href="db/data.jsp">数据库连接测试(数据展示页面)</a></p>
+  <p>
+    实验七 数据库增删改查<br>
+    <a href="db/data.jsp">数据展示页面(查)</a><br>
+    <a href="db/insert.jsp">数据插入页面(增)</a><br>
+    <a href="db/update.jsp">数据更改页面(改)</a><br>
+    <a href="db/delete.jsp">数据删除页面(删)</a><br>
+  </p>
   <hr>
   <p>
     Copyright © Andliage Pox <br>
