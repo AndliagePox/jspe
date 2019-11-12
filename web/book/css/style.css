@@ -1,0 +1,52 @@
+.div_form {
+	width: 20rem;
+	margin: 0 auto;
+}
+
+.item {
+	padding:20px 0;
+	margin:0 auto;
+	text-align: center;
+}
+
+table {
+	border: solid 2px black;
+}
+
+table td {
+	border: solid 1px black; text-align: center;
+}
+
+.table_title {
+	margin: 10px auto;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.table_center {
+	margin: 20px auto;
+	text-align: center;
+	font-size: 16px;
+}
+
+.table_center tr td {
+	padding: 5px 25px;
+}
+
+.table_center tr th {
+	padding: 5px 25px;
+}
+
+.sgoto {
+	font-size: 18px;
+	text-align: center;
+	font-weight: bold;
+	margin: 10px auto; 
+}
+
+.welcome {
+	text-align: center;
+	margin: 0 auto;
+	font-size: 20px;
+}
